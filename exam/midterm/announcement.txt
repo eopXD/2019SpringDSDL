@@ -1,0 +1,28 @@
+Midterm Information
+Chung-Wei Lin
+
+Time: 1:30-3:30pm on April 8 (Monday)
+
+Please come to the classroom at 1:20pm
+Location: CSIE R104
+
+Material: All material until March 25, except Unit 6 (Quine-McCluskey Method)
+	Include static-1 and static-0 hazards
+	Not include dynamic hazards
+
+Policies
+	Closed book exam
+	One page of single sided A4 note
+	Write down your name on the note and return it with your exam sheets
+	You can prepare the note together, but you cannot share it during the exam
+
+	There will be basic questions, but there will also be difficult questions
+
+Suggestions
+	Before the midterm
+		Have some practice (e.g., like homework or discussion) during your preparation
+		If you think you will have trouble reading English questions, 
+		please try to get an aisle seat
+	During the midterm
+		Manage time well (e.g., do questions that you know how to solve first)
+		Never think you are doing bad
