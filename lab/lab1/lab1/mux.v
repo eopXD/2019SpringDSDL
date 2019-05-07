@@ -1,6 +1,8 @@
 module mux(out, sel, in1, in2);
 	output out;
 	input sel, in1, in2;
+	// the compiler will connect the wires for you,
+	// so actually it's not reuqired to declare the wires.
 	// wire iv_sel, a1_o, a2_o;
 	not n1(iv_sel, sel);
 	and a1(a1_o, in1, sel);
@@ -37,7 +39,6 @@ module mux_tb();
 	wire out;
 	mux m0(out, sel, in1, in2);
 	integer k;
-	time t = 0;
 	initial begin
 		$display(" t / sel in1 in2 out");
 		$display("====================");
