@@ -1,7 +1,7 @@
 # Digital Systems Design and Laboratory
 
 
-CSIE2344, Spring 2019, National Taiwan University
+CSIE2344, 2019 Spring, National Taiwan University
 
 #### Lecturer
 
